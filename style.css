@@ -48,11 +48,28 @@ h1 {
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
-  line-height: 50px;
+  line-height: 30px;
   color: #172b4d;
-  margin: 90px 10px 10px 8px;
-  padding: 5px;
-  box-sizing: border-box;
+  display: flex;
+  margin: 140px 24px 0 0;
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 10px;
+  color: #172b4d;
+}
+
+h3 {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 10px;
+  color: #172b4d;
 }
 
 p {
@@ -66,10 +83,10 @@ p {
   box-sizing: border-box;
 }
 
-h3 {
+h4 {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 200;
   font-size: 20px;
   color: #6070ff;
   margin: 8px 10px 0 8px;
