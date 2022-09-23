@@ -38,7 +38,7 @@ To get a local copy up and run git clone git@github.com:SabaAhmad786/mobile-vers
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/SabaAhmad786/mobile-versio/issues).
 
 ## Show your support
 
