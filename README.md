@@ -18,7 +18,7 @@ This project is The Mobile Portofolio Website.In this project I added the linter
 
 ## Getting Started
 
-To get a local copy up and run git clone git clone git@github.com:SabaAhmad786/mobile-versio.git and follow these simple steps.
+To get a local copy up and run git clone git@github.com:SabaAhmad786/mobile-versio.git and follow these simple steps.
 
 ### Open files in visual studio code
 
