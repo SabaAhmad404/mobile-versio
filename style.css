@@ -98,7 +98,7 @@ h4 {
   flex-wrap: wrap;
 }
 
-.icons ul {
+.icon ul {
   list-style: none;
   display: flex;
   gap: 20px;
